@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Beata Malendowicz, but you can call me Bea
+- 👋 Hi, I’m Beata Malendowicz, but you can call me Bea
 - 👀 I am keen on enhancing my skills in SQL and Python, and I am enthusiastic about embarking on a journey to learn R.
 - 🌱 I’m currently working towards a certification in Data Science Fundamentals Bootcamp
 <!---
